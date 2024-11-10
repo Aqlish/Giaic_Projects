@@ -10,7 +10,7 @@ export default function home(){
       <div>
       <div style={{paddingLeft:"70px",height:"40px",background:"#2a2b2b",marginLeft:"15%",marginRight:"15%",display:"flex",gap:"10%",color:"white", paddingTop:"8px"}}>
          <div><strong  ><b style={{color:"red"}}>Naj</b>af</strong></div>
-         <div><a href="https://multipagenextjscss.vercel.app/">MPNcss</a></div>
+         <div><a href="https://multipagenextjscss.vercel.app/">MPNcSS</a></div>
          <div><a href="https://multipagenextjstailwind.vercel.app/">MPNtailwind</a></div>
          <div><a href="https://portfoliocss-dusky.vercel.app/">PortFcss</a></div>
          <div><a href="https://portfoliotailwind-sandy.vercel.app/">Ptailwind</a></div>
