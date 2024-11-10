@@ -27,7 +27,7 @@ export default function home(){
 
           </div>
         <div>
-          <Image src={yamman} alt="" width="1500" height="1500" style={{paddingRight:"30px",paddingTop:"30px"}} />
+          <Image src={najaf} alt="" width="1500" height="1500" style={{paddingRight:"30px",paddingTop:"30px"}} />
         </div>
 
       </div>
