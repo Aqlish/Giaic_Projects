@@ -12,7 +12,7 @@ export default function home(){
       <div>
       <div className="pl-[70px] h[40px] bg-[#2a2b2b] ml-[15%] mr-[15%] flex gap-[10%] text-[white] h-[50px] pt-[13px]  ">
       {/* paddingLeft:"70px",height:"40px",background:"#2a2b2b",marginLeft:"15%",marginRight:"15%",display:"flex",gap:"10%",color:"white", paddingTop:"8px" */}
-         <div><strong  ><b className="text-[red]">Najaf</b>Ali</strong></div>
+         <div><strong  ><b className="text-[red]">Aqsa</b>Khan</strong></div>
          <div>Portfolio</div>
          <div>Services</div>
          <div>Experience</div>
