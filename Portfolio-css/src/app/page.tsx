@@ -1,5 +1,5 @@
 import Image from "next/image"
-import yamman from "..//..//image/najaf.png"
+import najaf from "..//..//image/najaf.png"
 export default function home(){
   return(
     <body style={{background:"#fc833d"}}>
