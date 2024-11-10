@@ -11,8 +11,8 @@ export default function AboutUs(){
         <p className="pl-[21%] pt[1%]">Meet the team behind nysquiz – bringing AI-powered interactive quizzes to life.</p>
             <div className="flex pl-[0%] pt-[30px]" >
             <div className="bg-[white] h-[50%],border-solid rounded-[20px] w-[40%] border-[2px] border-black">
-                <strong  className="pl-[25%]">Najaf Ali</strong> 
-                <p className="p-[2%] text-[100%]">Najaf Ali is a GenAI engineer and Python developer responsible for the technical brilliance behind nysquiz, ensuring a seamless and engaging quiz experience for users.
+                <strong  className="pl-[25%]">Aqsa Khan</strong> 
+                <p className="p-[2%] text-[100%]">Aqsa Khan is a GenAI engineer and Python developer responsible for the technical brilliance behind nysquiz, ensuring a seamless and engaging quiz experience for users.
 
 </p>
                  </div>
