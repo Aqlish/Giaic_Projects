@@ -13,10 +13,11 @@ export default function home(){
       <div className="pl-[70px] h[40px] bg-[#2a2b2b] ml-[15%] mr-[15%] flex gap-[10%] text-[white] h-[50px] pt-[13px]  ">
       {/* paddingLeft:"70px",height:"40px",background:"#2a2b2b",marginLeft:"15%",marginRight:"15%",display:"flex",gap:"10%",color:"white", paddingTop:"8px" */}
          <div><strong  ><b className="text-[red]">Aqsa</b>Khan</strong></div>
-         <div>Portfolio</div>
-         <div>Services</div>
-         <div>Experience</div>
-         <div>Education</div>
+          <div><strong  ><b style={{color:"red"}}>Aqsa</b>Khan</strong></div>
+         <div><a href="https://mutlipagenextjs-css.vercel.app/">MPNcSS</a></div>
+         <div><a href="https://multipagenextjstailwind-one.vercel.app/">MPNtailwind</a></div>
+         <div><a href="https://portfoliocss-tau.vercel.app/">PortFcss</a></div>
+         <div><a href="https://portfoliotailwind-pied.vercel.app/">Ptailwind</a></div>
 
          </div>
       <div className=" h-[20%] ml-[15%] mr-[15%] flex g-[30%] bg-[rgb(255,255,255)]" >
