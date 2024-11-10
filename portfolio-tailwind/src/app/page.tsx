@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image"
-import yamman from "..//..//image/yamman.png"
+import najaf from "..//..//image/najaf.png"
 export default function home(){
   return(
     <div>
@@ -12,7 +12,7 @@ export default function home(){
       <div>
       <div className="pl-[70px] h[40px] bg-[#2a2b2b] ml-[15%] mr-[15%] flex gap-[10%] text-[white] h-[50px] pt-[13px]  ">
       {/* paddingLeft:"70px",height:"40px",background:"#2a2b2b",marginLeft:"15%",marginRight:"15%",display:"flex",gap:"10%",color:"white", paddingTop:"8px" */}
-         <div><strong  ><b className="text-[red]">Yam</b>man</strong></div>
+         <div><strong  ><b className="text-[red]">Najaf</b>Ali</strong></div>
          <div>Portfolio</div>
          <div>Services</div>
          <div>Experience</div>
@@ -23,9 +23,9 @@ export default function home(){
         {/* style={{background:"white",marginLeft:"15%",marginRight:"15%",height:"20%",display:"flex",gap:"30%" */}
         <div className="pl-[100px] pt-[50px] pb-[50px] text-[100%] w-[80%]" >
         {/* paddingLeft:"100px",paddingTop:"50px",paddingBottom:"50px",fontSize:"100%" */}
-          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}> Yamman</strong> <br></br> a Frontend Developer</strong>  <br></br>
-          <p>I'm Yamman, a UI/UX designer & front-end web developer. Focused on creating unique,
-             results-driven digital experiences through clean and functional design.The visionary founder of nysquiz, Yamman is the creative mind
+          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}> Najaf Ali</strong> <br></br> a Frontend Developer</strong>  <br></br>
+          <p>I'm Najaf Ali, a UI/UX designer & front-end web developer. Focused on creating unique,
+             results-driven digital experiences through clean and functional design.The visionary founder of nysquiz, Najaf ALi is the creative mind
              behind the platform, making interactive learning accessible through AI-generated quizzes tailored to user preferences.
              </p>
              <br></br> <br></br>
@@ -36,7 +36,7 @@ export default function home(){
 
           </div>
         <div>
-          <Image src={yamman} alt="" width="500" height="500" style={{paddingRight:"30px",paddingTop:"30px"}} />
+          <Image src={najaf} alt="" width="500" height="500" style={{paddingRight:"30px",paddingTop:"30px"}} />
         </div>
 
       </div>
