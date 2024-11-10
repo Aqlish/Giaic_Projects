@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image"
-import najaf from "..//..//image/najaf.png"
+import najaf from "../../image/najaf.png"
 export default function home(){
   return(
     <div>
@@ -24,7 +24,7 @@ export default function home(){
         <div className="pl-[100px] pt-[50px] pb-[50px] text-[100%] w-[80%]" >
         {/* paddingLeft:"100px",paddingTop:"50px",paddingBottom:"50px",fontSize:"100%" */}
           <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}> Najaf Ali</strong> <br></br> a Frontend Developer</strong>  <br></br>
-          <p>I'm Najaf Ali, a UI/UX designer & front-end web developer. Focused on creating unique,
+          <p>I am Najaf Ali, a UI/UX designer & front-end web developer. Focused on creating unique,
              results-driven digital experiences through clean and functional design.The visionary founder of nysquiz, Najaf ALi is the creative mind
              behind the platform, making interactive learning accessible through AI-generated quizzes tailored to user preferences.
              </p>
