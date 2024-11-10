@@ -21,8 +21,8 @@ export default function ContactUs(){
 <br></br><strong>Global Access – </strong>Knowledge for everyone, everywhere.
 
 
-<br></br><strong>Email</strong>: najafali32304@gmail.com
-<br></br><strong>Address</strong>: Saddar, Karachi Sindh, Pakistan
+<br></br><strong>Email</strong>: aqsakhan0316@gmail.com
+<br></br><strong>Address</strong>: Karachi Sindh, Pakistan
             </p>
         </div>
         <div className="pl-[20%]">
