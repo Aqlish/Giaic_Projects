@@ -2,7 +2,7 @@ import Image from "next/image"
 import najaf from "..//..//image/najaf.png"
 export default function home(){
   return(
-    <body style={{background:"#fc833d"}}>
+    <div>
     {/* heading div */}
       <div style={{fontStyle:"italic",fontSize:"300%",paddingLeft:"32%",paddingTop:"2%",paddingBottom:"1%"}}> <h1 >SIMPLE PORTFOLIO</h1></div>
       {/* closing heading div */}
@@ -33,6 +33,6 @@ export default function home(){
       </div>
       </div>
   
-    </body>
+    </div>
   )
 }
