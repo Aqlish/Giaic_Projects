@@ -16,20 +16,8 @@
 
 body {
   color: var(--foreground);
-  background: var(--background);
+/*   background: var(--background); */
+  background: #fc813f;
   font-family: Arial, Helvetica, sans-serif;
 }
-@keyframes fadeZoom {
-  0% {
-    color: #333;
-    transform: scale(1);
-    opacity: 1;
-    width: 0; /* Start with no width */
-  }
-  100% {
-    color: #ff6347; /* Change color to tomato */
-    transform: scale(1.2);
-    opacity: 0.8;
-    width: 100%; /* End at full width */
-  }
-}
+
